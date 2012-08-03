@@ -1,1 +1,0 @@
-console.info(typeof NaN); //number, see 2.js
