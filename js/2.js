@@ -1,3 +1,3 @@
-console.info(typeof NaN === 'number') // result
-console.info(Infinity === 1/0) // result
-console.info(0.1 + 0.2 === 0.3) // result
+console.info(typeof NaN === 'number') // true because NaN is result of arichmetics operation and its type is number
+console.info(Infinity === 1/0) // true 1/0 gives VERY big number, js use Infinity for such big numbers
+console.info(0.1 + 0.2 === 0.3) // false js stores 0.1 and 0.2 as numbers with floating comma, 0.1+0.2 will be something like 0.3....12..... 
