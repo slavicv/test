@@ -1,3 +1,3 @@
 (function(){ var x = y = 1; })(); 
-console.info(x);
-console.info(y);
+console.info(typeof x);
+console.info(typeof y);
