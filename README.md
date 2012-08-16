@@ -11,7 +11,7 @@ Rules of the Game.
 4. Make Pull request
 5. Summon at least one of your friends for code review
 
-
+6
 
 
 ====
