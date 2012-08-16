@@ -10,3 +10,7 @@ Rules of the Game.
  - or solve `wtf's` with comment. It's good if you explain why, but not just give result
 4. Make Pull request
 5. Summon at least one of your friends for code review
+
+TODO
+add more instructions
+
