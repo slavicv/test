@@ -1,16 +1,19 @@
-.clothes{
-
+.clothes {
 	background: transparent;
-
 }
 
 .red_font {
-
 	color: red;
-
 }
-.underwear{
 
+.green_font {
+	color: green;
+}
+
+.blue_font {
+	color: blue;
+}
+
+.underwear {
 	color: red;
-
 }
