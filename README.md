@@ -14,4 +14,3 @@ Rules of the Game.
 TODO
 add more instructions
 
-test
